@@ -1,3 +1,5 @@
+<!-- remark-lint emphasis-marker off -->
+
 <header>
 
 <!--
